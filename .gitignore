@@ -1,0 +1,21 @@
+# Convenience only: not access control, sanitization, or history removal.
+# Already tracked files remain tracked. Inspect the actual export before sharing.
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.cache/
+node_modules/
+.venv/
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+private/
+private-drafts/
+raw-inputs/
+*.log
+*.bak
+*~
