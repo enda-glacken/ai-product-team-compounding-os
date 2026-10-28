@@ -1,4 +1,4 @@
-# Compounding OS
+# AI Product Team Compounding OS
 
 **A product operating system for teams that build with agents.**
 
@@ -66,4 +66,4 @@ LICENSE                   MIT
 
 ## Licence
 
-[MIT](LICENSE) © 2026 Enda Glacken. The licence covers the files; it doesn't grant use of the name "Compounding OS".
+[MIT](LICENSE) © 2026 Enda Glacken. The licence covers the files; it doesn't grant use of the name "AI Product Team Compounding OS".
